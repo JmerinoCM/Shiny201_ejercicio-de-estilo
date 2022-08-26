@@ -5,7 +5,7 @@ Los datos utilizados son fake y puramente ilustrativos.
 
 ## Enlaces
 
-- Página web: [https://4v1enh-jmzarco.shinyapps.io/Banca_Mexico/](https://4v1enh-jmzarco.shinyapps.io/Shiny201_estilo/)
+- Página web: [Shiny201_estilo/](https://4v1enh-jmzarco.shinyapps.io/Shiny201_estilo/)
 
 ## Instrucciones para correr la aplicación web
 
